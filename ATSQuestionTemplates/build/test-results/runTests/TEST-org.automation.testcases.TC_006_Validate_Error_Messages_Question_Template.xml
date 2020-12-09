@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.automation.testcases.TC_006_Validate_Error_Messages_Question_Template" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-09T12:06:34" hostname="MUMSDALVI" time="16.334">
+  <properties/>
+  <testcase name="errorMessage" classname="org.automation.testcases.TC_006_Validate_Error_Messages_Question_Template" time="16.334"/>
+  <system-out><![CDATA[1
+2
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}) on port 5159
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1607515576.918][WARNING]: This version of ChromeDriver has not been tested with Chrome version 87.
+Dec 09, 2020 5:36:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

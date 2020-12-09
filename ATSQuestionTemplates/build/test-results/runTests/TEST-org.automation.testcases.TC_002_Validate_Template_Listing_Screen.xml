@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.automation.testcases.TC_002_Validate_Template_Listing_Screen" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-12-09T12:08:06" hostname="MUMSDALVI" time="28.98">
+  <properties/>
+  <testcase name="validateFieldsDisplayed" classname="org.automation.testcases.TC_002_Validate_Template_Listing_Screen" time="4.953"/>
+  <testcase name="verifyValidationOnNoRecords" classname="org.automation.testcases.TC_002_Validate_Template_Listing_Screen" time="5.041"/>
+  <system-out><![CDATA[1
+Status is:true
+Required element is displayed://a[contains(text(),'Settings')]
+2
+Status is:true
+Required element is displayed://input[@id='name' and @type='text']
+Status is:true
+Required element is displayed://input[@id='is-active' and @name='hideInActive']
+Status is:true
+Required element is displayed://button[contains(text(),'Filter')]
+Status is:true
+Required element is displayed://button[contains(text(),'Reset')]
+Status is:true
+Required element is displayed://input[@type='button' and @value='Return to Settings ']
+Status is:true
+Required element is displayed://select[@name='elements_per_page']
+1
+Status is:true
+Required element is displayed://a[contains(text(),'Settings')]
+2
+Status is:true
+Required element is displayed://p[contains(text(),'0 templates found.')]
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}) on port 18707
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1607515668.223][WARNING]: This version of ChromeDriver has not been tested with Chrome version 87.
+Dec 09, 2020 5:37:50 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Starting ChromeDriver 86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}) on port 42654
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1607515692.472][WARNING]: This version of ChromeDriver has not been tested with Chrome version 87.
+Dec 09, 2020 5:38:14 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

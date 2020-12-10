@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.automation.testcases.TC_001_Validate_Question_Template_Creation" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-09T12:02:53" hostname="MUMSDALVI" time="40.11">
+<testsuite name="org.automation.testcases.TC_001_Validate_Question_Template_Creation" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-10T03:58:52" hostname="MUMSDALVI" time="40.366">
   <properties/>
-  <testcase name="templateCreation" classname="org.automation.testcases.TC_001_Validate_Question_Template_Creation" time="40.11"/>
+  <testcase name="templateCreation" classname="org.automation.testcases.TC_001_Validate_Question_Template_Creation" time="40.366"/>
   <system-out><![CDATA[1
 Status is:true
 Required element is displayed://a[contains(text(),'Settings')]
 2
-Template name generated is:QAEngineer9691
+Template name generated is:QAEngineer9167
 ]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}) on port 27404
+  <system-err><![CDATA[Starting ChromeDriver 86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}) on port 12214
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1607515355.427][WARNING]: This version of ChromeDriver has not been tested with Chrome version 87.
-Dec 09, 2020 5:32:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1607572713.006][WARNING]: This version of ChromeDriver has not been tested with Chrome version 87.
+Dec 10, 2020 9:28:35 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
 </testsuite>

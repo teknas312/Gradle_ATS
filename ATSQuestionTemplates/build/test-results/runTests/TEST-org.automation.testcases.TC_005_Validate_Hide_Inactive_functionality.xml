@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.automation.testcases.TC_005_Validate_Hide_Inactive_functionality" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-09T12:05:48" hostname="MUMSDALVI" time="26.854">
+<testsuite name="org.automation.testcases.TC_005_Validate_Hide_Inactive_functionality" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-10T04:01:19" hostname="MUMSDALVI" time="26.965">
   <properties/>
-  <testcase name="HideInactiveCheckbox" classname="org.automation.testcases.TC_005_Validate_Hide_Inactive_functionality" time="26.854"/>
+  <testcase name="HideInactiveCheckbox" classname="org.automation.testcases.TC_005_Validate_Hide_Inactive_functionality" time="26.965"/>
   <system-out><![CDATA[1
 2
-Template name generated is:QAEngineer8825
+Template name generated is:QAEngineer6255
 ]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}) on port 45448
+  <system-err><![CDATA[Starting ChromeDriver 86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}) on port 24360
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1607515530.967][WARNING]: This version of ChromeDriver has not been tested with Chrome version 87.
-Dec 09, 2020 5:35:32 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1607572861.739][WARNING]: This version of ChromeDriver has not been tested with Chrome version 87.
+Dec 10, 2020 9:31:03 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
 </testsuite>

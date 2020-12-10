@@ -2,39 +2,39 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="62435" started-at="2020-12-09T10:30:21Z" finished-at="2020-12-09T10:31:23Z">
+  <suite name="Default suite" duration-ms="32515" started-at="2020-12-10T04:23:36Z" finished-at="2020-12-10T04:24:09Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="62435" started-at="2020-12-09T10:30:21Z" finished-at="2020-12-09T10:31:23Z">
-      <class name="org.automation.testcases.TC_001_Validate_Question_Template_Creation">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:org.automation.testcases.TC_001_Validate_Question_Template_Creation@e25b2fe]" name="setUp" is-config="true" duration-ms="115" started-at="2020-12-09T10:30:21Z" finished-at="2020-12-09T10:30:21Z">
+    <test name="Default test" duration-ms="32515" started-at="2020-12-10T04:23:36Z" finished-at="2020-12-10T04:24:09Z">
+      <class name="org.automation.testcases.TC_008_Iframe_New_Window">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.automation.testcases.TC_008_Iframe_New_Window@6eebc39e]" name="setUp" is-config="true" duration-ms="97" started-at="2020-12-10T04:23:36Z" finished-at="2020-12-10T04:23:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="initiateDriverInstance()[pri:0, instance:org.automation.testcases.TC_001_Validate_Question_Template_Creation@e25b2fe]" name="initiateDriverInstance" is-config="true" duration-ms="20417" started-at="2020-12-09T10:30:21Z" finished-at="2020-12-09T10:30:41Z">
+        <test-method status="PASS" signature="initiateDriverInstance()[pri:0, instance:org.automation.testcases.TC_008_Iframe_New_Window@6eebc39e]" name="initiateDriverInstance" is-config="true" duration-ms="19338" started-at="2020-12-10T04:23:36Z" finished-at="2020-12-10T04:23:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initiateDriverInstance -->
-        <test-method status="PASS" signature="templateCreation()[pri:0, instance:org.automation.testcases.TC_001_Validate_Question_Template_Creation@e25b2fe]" name="templateCreation" duration-ms="40189" started-at="2020-12-09T10:30:41Z" finished-at="2020-12-09T10:31:22Z">
+        <test-method status="PASS" signature="WindowHandleDemo()[pri:0, instance:org.automation.testcases.TC_008_Iframe_New_Window@6eebc39e]" name="WindowHandleDemo" duration-ms="12751" started-at="2020-12-10T04:23:56Z" finished-at="2020-12-10T04:24:09Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- templateCreation -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.automation.testcases.TC_001_Validate_Question_Template_Creation@e25b2fe]" name="tearDown" is-config="true" duration-ms="1817" started-at="2020-12-09T10:31:22Z" finished-at="2020-12-09T10:31:23Z">
+        </test-method> <!-- WindowHandleDemo -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.automation.testcases.TC_008_Iframe_New_Window@6eebc39e]" name="tearDown" is-config="true" duration-ms="414" started-at="2020-12-10T04:24:09Z" finished-at="2020-12-10T04:24:09Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=templateCreation status=SUCCESS method=TC_001_Validate_Question_Template_Creation.templateCreation()[pri:0, instance:org.automation.testcases.TC_001_Validate_Question_Template_Creation@e25b2fe] output={null}]]]>
+                <![CDATA[[TestResult name=WindowHandleDemo status=SUCCESS method=TC_008_Iframe_New_Window.WindowHandleDemo()[pri:0, instance:org.automation.testcases.TC_008_Iframe_New_Window@6eebc39e] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="endReport()[pri:0, instance:org.automation.testcases.TC_001_Validate_Question_Template_Creation@e25b2fe]" name="endReport" is-config="true" duration-ms="173" started-at="2020-12-09T10:31:23Z" finished-at="2020-12-09T10:31:24Z">
+        <test-method status="PASS" signature="endReport()[pri:0, instance:org.automation.testcases.TC_008_Iframe_New_Window@6eebc39e]" name="endReport" is-config="true" duration-ms="181" started-at="2020-12-10T04:24:09Z" finished-at="2020-12-10T04:24:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endReport -->
-      </class> <!-- org.automation.testcases.TC_001_Validate_Question_Template_Creation -->
+      </class> <!-- org.automation.testcases.TC_008_Iframe_New_Window -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

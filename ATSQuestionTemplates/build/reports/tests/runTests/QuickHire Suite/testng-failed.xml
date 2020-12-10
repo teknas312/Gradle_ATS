@@ -3,15 +3,6 @@
 <suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [QuickHire Suite]">
   <test thread-count="5" verbose="0" name="QuickHire Test2(failed)">
     <classes>
-      <class name="org.automation.testcases.TC_003_Validate_Multiselect_button_functionality">
-        <methods>
-          <include name="initiateDriverInstance"/>
-          <include name="endReport"/>
-          <include name="SelectAllButton"/>
-          <include name="setUp"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- org.automation.testcases.TC_003_Validate_Multiselect_button_functionality -->
       <class name="org.automation.testcases.TC_008_Iframe_New_Window">
         <methods>
           <include name="initiateDriverInstance"/>

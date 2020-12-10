@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.automation.testcases.TC_004_Validate_Columns_in_Listing_Screen" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-09T12:05:24" hostname="MUMSDALVI" time="5.285">
+<testsuite name="org.automation.testcases.TC_004_Validate_Columns_in_Listing_Screen" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-10T04:00:55" hostname="MUMSDALVI" time="5.249">
   <properties/>
-  <testcase name="validateColumns" classname="org.automation.testcases.TC_004_Validate_Columns_in_Listing_Screen" time="5.285"/>
+  <testcase name="validateColumns" classname="org.automation.testcases.TC_004_Validate_Columns_in_Listing_Screen" time="5.249"/>
   <system-out><![CDATA[1
 2
 Status is:true
@@ -11,12 +11,12 @@ Required element is displayed:/html[1]/body[1]/div[2]/table[1]/thead[1]/tr[1]/th
 Status is:true
 Required element is displayed://span[contains(text(),'Active')]
 ]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}) on port 10973
+  <system-err><![CDATA[Starting ChromeDriver 86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}) on port 34495
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1607515506.538][WARNING]: This version of ChromeDriver has not been tested with Chrome version 87.
-Dec 09, 2020 5:35:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1607572837.082][WARNING]: This version of ChromeDriver has not been tested with Chrome version 87.
+Dec 10, 2020 9:30:39 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
 </testsuite>
